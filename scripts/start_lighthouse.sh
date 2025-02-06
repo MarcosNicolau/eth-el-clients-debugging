@@ -15,4 +15,3 @@ lighthouse bn \
   --http \
   --datadir ${NETWORK}_data/lighthouse_${NODE_NAME}/ \
   --disable-deposit-contract-sync --port $LIGHTHOUSE_PORT --discovery-port $LIGHTHOUSE_DISCOVERY_PORT --http-port 5053
-
